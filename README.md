@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hello, I’m [Rushikesh Dhas](https://github.com/Rushi27)
 <!-- https://shields.io/ -->
 <p align="center"><br/>
- <a href="www.linkedin.com/in/rushikesh-dhas-b64a4b1b7">
+ <a href="https://www.linkedin.com/in/rushikesh-dhas-b64a4b1b7/">
   <img src="https://img.shields.io/badge/linkedin-Rushikesh%20Dhas-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="mailto:rushikeshdhas1967@gmail.com">
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - 💻 Interested in Frontend development, full stack development, competative programming
-- 📫 How to reach me: [Email](mailto:rushikeshdhas1967@gmail.com "rushikeshdhas1967@gmail.com") || [LinkedIn](www.linkedin.com/in/rushikesh-dhas-b64a4b1b7/ "rushikesh-dhas-b64a4b1b7") || [Instagram](https://www.instagram.com/rushi_27__/ "rushi_27__") 
+- 📫 How to reach me: [Email](mailto:rushikeshdhas1967@gmail.com "rushikeshdhas1967@gmail.com") || [LinkedIn](https://www.linkedin.com/in/rushikesh-dhas-b64a4b1b7/ "rushikesh-dhas-b64a4b1b7") || [Instagram](https://www.instagram.com/rushi_27__/ "rushi_27__") 
 - 🗺️ Located near Pune, India
 - 📝 [CV/Resume](https://github.com/Rushi27/Rushi27/blob/main/RushikeshDhas_Resume.pdf "CV/Resume")
 
