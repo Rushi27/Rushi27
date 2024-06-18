@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 Interested in Frontend development, full stack development, competative programming
 - 📫 How to reach me: [Email](mailto:rushikeshdhas1967@gmail.com "rushikeshdhas1967@gmail.com") || [LinkedIn](www.linkedin.com/in/rushikesh-dhas-b64a4b1b7/ "rushikesh-dhas-b64a4b1b7") || [Instagram](https://www.instagram.com/rushi_27__/ "rushi_27__") 
 - 🗺️ Located near Pune, India
-- 📝 [CV/Resume](https://github.com/abhibarkade111/abhibarkade111/blob/main/Abhishek%20Nanaso%20Barkade.pdf "CV/Resume")
+- 📝 [CV/Resume](https://github.com/Rushi27/Rushi27/blob/main/RushikeshDhas_Resume.pdf "CV/Resume")
 
 Passionate about software development, writing code, and making things happen.
 <br>
